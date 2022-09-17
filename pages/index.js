@@ -16,7 +16,7 @@ export default function Home() {
 
       <div className="relative h-fit  bg-gradient-to-r from-[#0d2a2e] via-[#110e11] to-[#110e11]">
         <Header />
-        <div className="grid md:grid-cols-2 max-w-screen-xl mx-auto md:space-x-6 mt-10 md:mt-32 ">
+        <div className="grid md:grid-cols-2 max-w-screen-xl mx-auto md:space-x-6  md:mt-32 ">
           <div className="space-y-8 relative">
             <h2 className="text-6xl  font-semibold text-white  hidden md:block">
               {" "}
